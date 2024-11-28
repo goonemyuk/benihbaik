@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://goonemyuk.github.io/benihbaik/sitemap.xml
+Sitemap: https://benihbaik.web.id/sitemap.xml
